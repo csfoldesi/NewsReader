@@ -1,0 +1,6 @@
+@NewsReader.Server_HostAddress = http://localhost:5230
+
+GET {{NewsReader.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

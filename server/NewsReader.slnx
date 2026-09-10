@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="NewsReader.Core/NewsReader.Core.csproj" />
+  <Project Path="NewsReader.Server/NewsReader.Server.csproj" />
+</Solution>
